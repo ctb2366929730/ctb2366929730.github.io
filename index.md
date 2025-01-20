@@ -1,58 +1,58 @@
 ---
 layout: default
-title: 陈通博的个人主页
+title: Tongbo Chen's Personal Website
 ---
 
-# 陈通博
+# Tongbo Chen
 
-> 专注深度学习研究 | 全栈开发者 | 持续学习者
+> Focused on Deep Learning Research | Full Stack Developer | Continuous Learner
 
-## 👨‍💻 关于我
+## 👨‍💻 About Me
 
-热爱技术、追求创新的开发者。专注于深度学习研究，同时具备全栈开发能力。  
-致力于将前沿技术转化为实际应用，并热衷于技术分享与开源贡献。
+A developer passionate about technology and innovation. Focused on deep learning research while possessing full-stack development capabilities.  
+Committed to transforming cutting-edge technology into practical applications and enthusiastic about technical sharing and open-source contributions.
 
-> **让技术创造价值，用创新改变未来**
-
----
-
-## 🚀 专业技能
-
-### 核心领域
-- 🤖 **深度学习**：专注持续学习算法研究
-- 🌐 **全栈开发**：微服务架构设计与实现
-
-### 技术栈
-
-- 🔹 编程语言： Python | Java | JavaScript
-- 🔹 深度学习： PyTorch |
-- 🔹 开发工具： Docker | Kubernetes | Git
-- 🔹 云平台：   AWS | Azure
-- 🔹 数据库：   MySQL | MongoDB | PostgreSQL
+> **Creating Value Through Technology, Changing the Future Through Innovation**
 
 ---
 
-## 💡 项目展示
+## 🚀 Professional Skills
+
+### Core Areas
+- 🤖 **Deep Learning**: Focused on continuous learning algorithm research
+- 🌐 **Full Stack Development**: Microservice architecture design and implementation
+
+### Tech Stack
+
+- 🔹 Programming Languages: Python | Java | JavaScript
+- 🔹 Deep Learning: PyTorch |
+- 🔹 Development Tools: Docker | Kubernetes | Git
+- 🔹 Cloud Platforms: AWS | Azure
+- 🔹 Databases: MySQL | MongoDB | PostgreSQL
+
+---
+
+## 💡 Projects
 
 
 ---
 
-## 📫 联系方式
+## 📫 Contact
 
-- 📧 **Email**：[chentongbo33@gmail.com](mailto:chentongbo33@gmail.com)  
-- 💻 **GitHub**：[github.com/ctb2366929730](https://github.com/ctb2366929730)
+- 📧 **Email**: [chentongbo33@gmail.com](mailto:chentongbo33@gmail.com)  
+- 💻 **GitHub**: [github.com/ctb2366929730](https://github.com/ctb2366929730)
 
 ---
 
-## 🌟 个人信息
+## 🌟 Personal Information
 
-- 🎓 **教育背景**：电子科技大学大三  
-- 🏢 **工作经历**：暂无  
-- 🏆 **获奖情况**：暂无  
+- 🎓 **Education**: University of Electronic Science and Technology of China (Junior)  
+- 🏢 **Work Experience**: None  
+- 🏆 **Awards**: None  
 
 ---
 
 <div align="center">
-    <p><strong>『持续学习，追求卓越』</strong></p>
-    <p>欢迎交流与合作！</p>
+    <p><strong>"Continuous Learning, Pursuing Excellence"</strong></p>
+    <p>Welcome to connect and collaborate!</p>
 </div>
