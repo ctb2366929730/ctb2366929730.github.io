@@ -1,123 +1,60 @@
 ---
 layout: default
+title: 陈通博的个人主页
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 陈通博
 
-[Link to another page](./another-page.html).
+> 专注深度学习研究 | 全栈开发者 | 持续学习者
 
-There should be whitespace between paragraphs.
+## 👨‍💻 关于我
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+热爱技术、追求创新的开发者。专注于深度学习研究，同时具备全栈开发能力。
+致力于将前沿技术转化为实际应用，并热衷于技术分享与开源贡献。
 
-# Header 1
+```让技术创造价值，用创新改变未来```
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## 🚀 专业技能
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### 核心领域
+- 🤖 **深度学习** - 专注持续学习算法研究
+- 🌐 **全栈开发** - 微服务架构设计与实现
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+### 技术栈
+```text
+🔹 编程语言： Python | Java | JavaScript
+🔹 深度学习： PyTorch
+🔹 开发工具： Docker | Kubernetes | Git
+🔹 云平台：   AWS | Azure
+🔹 数据库：   MySQL | MongoDB | PostgreSQL
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## 💡 项目展示
 
 
-### Definition lists can be used with HTML syntax.
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## 📫 联系方式
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+- 📧 Email：[chentongbo33@gmail.com](mailto:chentongbo33@gmail.com)
+- 💻 GitHub：[github.com/ctb2366929730](https://github.com/ctb2366929730)
 
-```
-The final element.
+---
+
+## 🌟 个人信息
+
+- 🎓 教育背景：电子科技大学大三
+- 🏢 工作经历：暂无
+- 🏆 获奖情况：
+
+---
+
+<div align="center">
+    <p>『持续学习，追求卓越』</p>
+    <p>欢迎交流与合作！</p>
+</div>
 ```
