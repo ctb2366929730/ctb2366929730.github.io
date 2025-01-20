@@ -24,17 +24,16 @@ title: 陈通博的个人主页
 
 ### 技术栈
 
-🔹 编程语言： Python | Java | JavaScript
-🔹 深度学习： PyTorch
-🔹 开发工具： Docker | Kubernetes | Git
-🔹 云平台：   AWS | Azure
-🔹 数据库：   MySQL | MongoDB | PostgreSQL
+- 🔹 编程语言： Python | Java | JavaScript
+- 🔹 深度学习： PyTorch
+- 🔹 开发工具： Docker | Kubernetes | Git
+- 🔹 云平台：   AWS | Azure
+- 🔹 数据库：   MySQL | MongoDB | PostgreSQL
 
 ---
 
 ## 💡 项目展示
 
-（此处可添加项目内容，例如项目名称、描述和技术栈等）
 
 ---
 
